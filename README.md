@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para a disciplina de **Sistemas Operacionais (SO)**.
 
+O projeto tem como objetivo aplicar conceitos estudados na disciplina de **Sistemas Operacionais**, utilizando estruturas da linguagem Bash para interagir com o sistema Linux.
+
 ## Requisitos
 
 1. O script precisa ter comentário em todas as estruturas;
@@ -188,12 +190,6 @@ DashboardMonitor/
 ```
 
 Os arquivos de configuração são criados automaticamente pelo script dentro do diretório `config/`, caso ainda não existam.
-
-## Objetivo acadêmico
-
-O projeto tem como objetivo aplicar conceitos estudados na disciplina de **Sistemas Operacionais**, utilizando estruturas da linguagem Bash para interagir com o sistema Linux.
-
-O foco da aplicação está no **monitoramento, diagnóstico e administração de servidores Linux**, reunindo informações de recursos, serviços, processos, rede, armazenamento e segurança em uma única ferramenta.
 
 ## Observação
 
