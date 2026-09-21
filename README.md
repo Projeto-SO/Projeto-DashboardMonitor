@@ -28,7 +28,7 @@ O DashboardMonitor foi desenvolvido com foco em **servidores**, auxiliando na id
 ## Tecnologias utilizadas
 
 * **Bash** — Linguagem utilizada no desenvolvimento do script;
-* **Linux** — Sistema operacional utilizado como ambiente de execução;
+* **Linux** — Kernel que intermedia informações entre o sistema operacional e hardware.
 * **File System** — Estrutura de arquivos e diretórios utilizada pelo sistema;
 * **APT** — Gerenciador de pacotes;
 * **Systemd** — Gerenciamento de serviços do sistema;
