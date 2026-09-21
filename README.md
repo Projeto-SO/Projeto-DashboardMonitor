@@ -2,7 +2,9 @@
 
 Projeto desenvolvido para a disciplina de **Sistemas Operacionais (SO)**.
 
-O projeto tem como objetivo aplicar conceitos estudados na disciplina de **Sistemas Operacionais**, utilizando estruturas da linguagem Bash para interagir com o sistema Linux.
+## Objetivo do Projeto
+
+Aplicar conceitos estudados na disciplina de **Sistemas Operacionais**, utilizando estruturas da linguagem Bash.
 
 ## Requisitos
 
@@ -131,6 +133,10 @@ Entre as ferramentas verificadas estão:
 * `curl`;
 * `dig`.
 
+## Observação
+
+O DashboardMonitor realiza operações administrativas no sistema, como instalação e remoção de pacotes, atualização de pacotes e gerenciamento de serviços. Por isso, sua execução requer privilégios de administrador (`sudo`).
+
 ## Como executar
 
 O script deve ser executado com privilégios administrativos.
@@ -190,7 +196,3 @@ DashboardMonitor/
 ```
 
 Os arquivos de configuração são criados automaticamente pelo script dentro do diretório `config/`, caso ainda não existam.
-
-## Observação
-
-O DashboardMonitor realiza operações administrativas no sistema, como instalação e remoção de pacotes, atualização de pacotes e gerenciamento de serviços. Por isso, sua execução requer privilégios de administrador (`sudo`).
