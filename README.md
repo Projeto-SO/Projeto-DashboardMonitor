@@ -51,8 +51,13 @@ O script possui as seguintes funcionalidades:
 ## Opções de inicialização do script
 
    -d, --dashboard    Exibe apenas o resumo (Dashboard) do sistema e encerra.
+   
+   
    -h, --help, help   Exibe este menu de ajuda detalhado e encerra.
+   
 
    ´´´sudo ./DashboardMonitor.sh -d´´´
+   
+   
    ´´´sudo ./DashboardMonitor.sh -h´´´
    
